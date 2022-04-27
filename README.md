@@ -1,5 +1,5 @@
 # Weater-app
-Made this web-app using node.js and express.js. It uses data from mapbox.com and weatherstack.com to fetch weather data. I just made it to learn these technologie.
+Made this web-app using node.js and express.js. It uses data from mapbox.com and weatherstack.com to fetch weather data. I just made it to learn these technologies.
 
 # App in working
 
